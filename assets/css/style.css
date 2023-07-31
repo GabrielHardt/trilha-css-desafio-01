@@ -128,3 +128,31 @@
       text-shadow: 3px 2px #33A8DB;
     }
     
+    #professional-challenges {
+      height: 600px;
+      text-align: center;
+    }
+
+    #professional-challenges p {
+      padding: 50px 500px;
+    }
+
+    h2 {
+      margin: 30px 500px;
+    }
+
+    footer {
+      margin: auto;
+      text-align: center;
+      border-top: #1472B7 1px solid;
+      padding: 30px;
+    }
+
+    footer p {
+      padding: 10px;
+      font-weight: 100;
+    }
+
+    footer a {
+      color: #33A8DB;
+    }

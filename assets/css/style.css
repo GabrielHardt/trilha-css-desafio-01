@@ -146,6 +146,7 @@
       text-align: center;
       border-top: #1472B7 1px solid;
       padding: 30px;
+      background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
     }
 
     footer p {

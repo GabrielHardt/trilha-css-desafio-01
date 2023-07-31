@@ -1,0 +1,78 @@
+   
+   @import url(./global.css);
+
+   body {
+      background-color: black;
+    }
+    
+    h2 {
+      font-size: 2rem;
+      color: #33A8DB;
+      font-weight: bold;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+    
+    p {
+      color: white;
+    }
+  
+    .banner {
+      background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
+      background-size: auto;
+      background-repeat: no-repeat;
+      height: 600px;
+      padding-top: 60px;
+      border-bottom: 1px solid #33A8DB80;
+    }
+    
+    .banner .banner-content {
+      color: white;
+      width: 600px;
+      margin: auto;
+      text-align: center;
+    }
+
+    .banner .logo {
+      background-color: rgba(0, 0, 0, .2);
+      height: 260px;
+      width: 260px;
+      margin: auto;
+      border-radius: 50%;
+      padding: 16px;
+      margin-bottom: 16px;
+
+    }
+
+    .banner h1 {
+      background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-transform: uppercase;
+      font-size: 2.5rem; 
+    }
+
+    .banner p {
+      text-align: center;
+      margin: 16px 0 24px;
+      font-size: 20px;
+    }
+
+    .banner button {
+      color: #31A8DD;
+      padding: 19px 91px;
+      background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-transform: uppercase;
+      font-size: 20px;
+      font-family: arial;
+      font-weight: bold;
+      border: 1px solid;
+      border-color: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    }
+
+    
